@@ -1,7 +1,8 @@
 # Qliksense_Selection_between_apps
+
 <h1>Apply selection of field values across multiple apps using native/ built-in filter components</h2>
 
-An example to demonstrate application of filters across multiple apps using native filter commponents and qlik apis.
+An example to demonstrate application of filters across multiple apps using native filter commponents and qlik apis. This requires no new filter components built andd saves time.
 More details can be found here http://www.codewander.com/qliksense-mashup-apply-filters-across-two-or-more-apps/
 
 <h2> The Approach</h2>
